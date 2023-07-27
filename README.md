@@ -17,8 +17,8 @@ IDs are used to target specific elements for styling.
    and division are implemented. These functions takes two or more input values, performing the
    corresponding operations, and displaying the result on the calculator's display area.
 
-  3.2. Applying Clear and Delete Functionality.
+       3.2. Applying Clear and Delete Functionality.
        These finctionalities allows to clear the display area and delete individual digits.
 
-  3.3. Error Handling.
+        3.3. Error Handling.
        Error Handling is to handle scenarios such as dividing by zero. 
