@@ -11,6 +11,7 @@ color, and typography is done to make it user-friendly and good-looking. Various
 IDs are used to target specific elements for styling.
 
 3. Javascript Functionalities Used for :-
+
    3.1. Applying Basic Arithmetic Operations.
         Functions for basic arithmetic operations, such as addition, substraction, multiplication,
    and division are implemented. These functions takes two or more input values, performing the
