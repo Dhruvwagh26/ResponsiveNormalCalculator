@@ -1,4 +1,4 @@
-# ResposniveCalculator
+# ResponsiveCalculator
 The repository code for a Responsive Normal Calculator.
 
 I have succefully made used of HTML, CSS, and Javascript.
